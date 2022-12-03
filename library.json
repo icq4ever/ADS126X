@@ -1,0 +1,29 @@
+{
+  "name": "ADS126X_",
+  "version": "1.0.0",
+  "description": "A class for the TI ADS1262 and ADS1263",
+  "keywords": "ADC, ads1262, ads1263, TI",
+  "repository":
+  {
+    "type": "git",
+    "url": "git@github.com:icq4ever/ADS126X.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Yi donghoon",
+      "email": "icq4ever@gmail.com",
+      "url": "https://icq4ever.net/"
+    },
+    {
+      "name": "Blake Felt",
+      "email": "blake.w.felt@gmail.com",
+      "url": "https://www.linkedin.com/in/blake-felt/",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Molorius/ADS126X",
+  "frameworks": "*",
+  "platforms": "*"
+}
